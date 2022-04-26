@@ -1,6 +1,6 @@
 # Olá, Bem vindo(a) ao meu perfil do GitHub!
 
-> Meu nome é Letícia, eu tenho 20 anos e atualmente estou estudando Desenvolvimento Web na <a href="https://www.betrybe.com/" target="_blank">Trybe</a>
+> Meu nome é Letícia, e atualmente estou estudando Desenvolvimento Web na <a href="https://www.betrybe.com/" target="_blank">Trybe</a>
 
 <div align="right">
   <img src="https://i.ibb.co/4MKCr8d/Peachcat-cat.gif" alt="Peachcat-cat" border="0">
