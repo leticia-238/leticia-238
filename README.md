@@ -1,28 +1,44 @@
-# Olá, Bem vindo(a) ao meu perfil do GitHub!
+Hi 👋 My name is Letícia Oliveira Andrade
+=========================================
 
-> Meu nome é Letícia, e atualmente estou estudando Desenvolvimento Web na <a href="https://www.betrybe.com/" target="_blank">Trybe</a>
+Atualmente estou estudando Desenvolvimento Web na <a href="https://www.betrybe.com/" target="_blank">Trybe</a>
 
-<div align="right">
-  <img src="https://i.ibb.co/4MKCr8d/Peachcat-cat.gif" alt="Peachcat-cat" border="0">
-</div>
+* 🌍  I'm based in Minas Gerais, Brasil
+* 🧠  I'm currently studying Web Development at [Trybe](https://www.betrybe.com/)
+* ✉️  You can contact me at [leticiaoliveiraandrade.9@gmail.com](mailto:leticiaoliveiraandrade.9@gmail.com)
 
-### Contatos
-<div align="center">
-<a href="https://imgbb.com/">
-  
-</a> 
-<a href="https://imgbb.com/">
-  
-</a> 
-<a href="https://imgbb.com/">
-  
-</a>
-</div>
 
-### Tecnologias e Ferramentas
-<div align="center">
+### Socials
 
-</div>
+<p align="left"> 
+  <a href="https://www.github.com/leticia-238" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="28" height="28"/>
+  </a>
+  <a href="https://www.linkedin.com/in/leticiaoliveiraandrade" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="28" height="28" />
+  </a>
+</p>
+
+
+### Skills
+
+<p align="left">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" />
+  </a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" />
+  </a>
+  <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" />
+  </a>
+  <a href="https://redux.js.org/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" />
+  </a>
+</p>
 
 <!--Linguagens mais usadas-->
 <div>
