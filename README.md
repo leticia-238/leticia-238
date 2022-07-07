@@ -1,14 +1,12 @@
-Hi 👋 My name is Letícia Oliveira Andrade
+Olá 👋 Meu nome é Letícia Oliveira Andrade
 =========================================
 
-Atualmente estou estudando Desenvolvimento Web na <a href="https://www.betrybe.com/" target="_blank">Trybe</a>
-
-* 🌍  I'm based in Minas Gerais, Brasil
-* 🧠  I'm currently studying Web Development at [Trybe](https://www.betrybe.com/)
-* ✉️  You can contact me at [leticiaoliveiraandrade.9@gmail.com](mailto:leticiaoliveiraandrade.9@gmail.com)
+* 🌍  Moro em Minas Gerais, Brasil
+* 🧠  Atualmente estou estudando Desenvolvimento Web na [Trybe](https://www.betrybe.com/)
+* ✉️  Você pode me contatar pelo email [leticiaoliveiraandrade.9@gmail.com](mailto:leticiaoliveiraandrade.9@gmail.com)
 
 
-### Socials
+### Redes Sociais
 
 <p align="left"> 
   <a href="https://www.github.com/leticia-238" target="_blank" rel="noreferrer">
@@ -20,7 +18,7 @@ Atualmente estou estudando Desenvolvimento Web na <a href="https://www.betrybe.c
 </p>
 
 
-### Skills
+### Linguagens, Tecnologias e Ferramentas 
 
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
@@ -29,11 +27,11 @@ Atualmente estou estudando Desenvolvimento Web na <a href="https://www.betrybe.c
   <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" />
   </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" />
-  </a>
   <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" />
+  </a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" />
   </a>
   <a href="https://redux.js.org/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" />
