@@ -41,11 +41,11 @@ Olá 👋 Meu nome é Letícia Oliveira Andrade
 <div>
 <!--Stats Card-->
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=leticia-238&count_private=true&show_icons=true&title_color=990073&text_color=efccff&icon_color=e600ac&hide_border=true&bg_color=30,d2707e,cb60d2&hide=issues,contribs" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=leticia-238&count_private=true&show_icons=true&title_color=990073&text_color=efccff&icon_color=e600ac&hide_border=true&bg_color=30,d2707e,cb60d2&hide=issues,contribs" />
 </a>
 <!--Linguagens mais usadas-->
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leticia-238&layout=compact&title_color=990073&text_color=efccff&hide_border=true&bg_color=40,d2707e,cb60d2" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leticia-238&layout=compact&title_color=990073&text_color=efccff&hide_border=true&bg_color=40,d2707e,cb60d2" />
 </a>
 </div>
 
