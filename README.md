@@ -38,17 +38,12 @@ Olá 👋 Meu nome é Letícia Oliveira Andrade
   </a>
 </p>
 
+<!--Stats Card-->
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=leticia-238&count_private=true&show_icons=true&title_color=990073&text_color=efccff&icon_color=e600ac&hide_border=true&bg_color=30,d2707e,cb60d2&hide=issues,contribs" />
+</a>
+
 <!--Linguagens mais usadas-->
-<div>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leticia-238&layout=compact&bg_color=90,81dada,d793b5&text_color=49005c&title_color=248989&hide_border=true&locale=pt-br" />
-  </a>
-</div>
-
-
-
-
-
-
-
-
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leticia-238&layout=compact&title_color=990073&text_color=efccff&hide_border=true&bg_color=40,d2707e,cb60d2" />
+</a>
