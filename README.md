@@ -7,8 +7,12 @@ Olá 👋 Meu nome é Letícia Oliveira Andrade
 
 <h3 align="left">Redes Sociais</h3>
  <p align="left">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github" />
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
+  <a href="https://github.com/leticia-238/" target="blank">
+   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github" />
+  </a>
+  <a href="www.linkedin.com/in/leticiaoliveiraandrade" target="blank">
+   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
+  </a>
  </p>
 
 <h3 align="center">Linguagens e Ferramentas</h3>
