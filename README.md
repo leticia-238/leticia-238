@@ -1,26 +1,25 @@
-Olá 👋 Meu nome é Letícia Oliveira Andrade
-=========================================
+## Olá, meu nome é Letícia Oliveira Andrade :blossom:
 
-* 🌍  Moro em Minas Gerais, Brasil
-* 🧠  Atualmente estou estudando Desenvolvimento Web na [Trybe](https://www.betrybe.com/)
-* ✉️  Você pode me contatar pelo email [leticiaoliveiraandrade.9@gmail.com](mailto:leticiaoliveiraandrade.9@gmail.com)
+<img align="right" width="150px" src="https://media.giphy.com/media/O0VBge9U7f8j21UqNj/giphy.gif" alt="gif"/>
 
-<div align="right" width="40%">
-  <img width="150px" src="https://media.giphy.com/media/O0VBge9U7f8j21UqNj/giphy.gif" alt="gif"/>
-  <p><a href="https://giphy.com/gifs/LINEFRIENDS-dance-linefriends-selini-O0VBge9U7f8j21UqNj" target="_blank">via GIPHY</a></p>
-</div>
+:space_invader: ***Tenho 21 anos e adoro acompanhar novidades na área de tecnologia e aprender melhores práticas de programação.***
 
-<div align="left" width="40%">
-  <h3>Redes Sociais</h3>
-  <p>
-    <a href="https://github.com/leticia-238/" target="blank">
-      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github" />
-    </a>
-    <a href="www.linkedin.com/in/leticiaoliveiraandrade" target="blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
-    </a>
-  </p>
-</div>
+* :world_map:  Moro em Minas Gerais, Brasil
+* :books:  Atualmente estou estudando o módulo de Ciência da Computação no curso de Desenvolvimento Web da [Trybe](https://www.betrybe.com/)
+* :mailbox:  Você pode me contatar pelo email [leticiaoliveiraandrade.9@gmail.com](mailto:leticiaoliveiraandrade.9@gmail.com)
+
+<p align="right">
+  <a href="https://giphy.com/gifs/LINEFRIENDS-dance-linefriends-selini-O0VBge9U7f8j21UqNj" target="blank">via GIPHY</a>
+</p>
+
+-----
+
+### Redes Sociais
+
+[![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/leticia-238/)
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/leticiaoliveiraandrade)
+
+-----
 
 <h3 align="center">Linguagens e Ferramentas</h3>
 
@@ -79,6 +78,8 @@ Olá 👋 Meu nome é Letícia Oliveira Andrade
     </td>
   </tr>
 </table>
+
+-----
 
 <div>
   <!--Stats Card-->
