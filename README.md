@@ -44,7 +44,7 @@
   </tr>
 </table>
 
-<table>
+<table align="right">
   <tr>
     <th>Desenvolvimento Backend</th>
     <th>Database</th>
