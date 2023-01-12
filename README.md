@@ -5,7 +5,7 @@
 :space_invader: ***Tenho 21 anos e adoro acompanhar novidades na área de tecnologia e aprender melhores práticas de programação.***
 
 * :world_map:  Moro em Minas Gerais, Brasil
-* :books:  Atualmente estou estudando o módulo de Ciência da Computação no curso de Desenvolvimento Web da [Trybe](https://www.betrybe.com/)
+* :books: Formação em Desenvolvimento Web na [Trybe](https://www.betrybe.com/)
 * :mailbox:  Você pode me contatar pelo email [leticiaoliveiraandrade.9@gmail.com](mailto:leticiaoliveiraandrade.9@gmail.com)
 
 <p align="right">
