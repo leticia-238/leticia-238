@@ -111,8 +111,9 @@
 
 <div>
   <!--Stats Card-->
+  <!--
   <img align="left" width="55%" src="https://github-readme-stats.vercel.app/api?username=leticia-238&count_private=true&show_icons=true&title_color=990073&text_color=efccff&icon_color=e600ac&hide_border=true&bg_color=30,e96443,904e95&hide=contribs" />
-  
+  -->
   <!--Most used languages-->
   <img align="right" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leticia-238&layout=compact&title_color=990073&text_color=efccff&hide_border=true&bg_color=30,e96443,904e95" />
 </div>
