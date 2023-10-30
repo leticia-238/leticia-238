@@ -2,10 +2,10 @@
 
 <img align="right" width="150px" src="https://media.giphy.com/media/O0VBge9U7f8j21UqNj/giphy.gif" alt="gif"/>
 
-:space_invader: ***Tenho 21 anos e adoro acompanhar novidades na área de tecnologia e aprender melhores práticas de programação.***
+:space_invader: ***Tenho 22 anos e adoro acompanhar novidades na área de tecnologia e aprender melhores práticas de programação.***
 
 * :world_map:  Moro em Minas Gerais, Brasil
-* :books: Formação em Desenvolvimento Web na [Trybe](https://www.betrybe.com/)
+* :books: Formada em Desenvolvimento Web na [Trybe](https://www.betrybe.com/)
 * :mailbox:  Você pode me contatar pelo email [leticiaoliveiraandrade.9@gmail.com](mailto:leticiaoliveiraandrade.9@gmail.com)
 
 <p align="right">
