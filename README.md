@@ -1,27 +1,16 @@
-## Olá, meu nome é Letícia Oliveira Andrade :blossom:
+<div  align="right">
+  <img width="150px" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3JxbTdsaXNieWI0OThrbTBoMXhmcGQ0NnoyMTloMmx6eHB2aGVzeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wKWxuUOcp9fdvckBty/giphy.gif" alt="gif"/>
+</div>
 
-<img align="right" width="150px" src="https://media.giphy.com/media/O0VBge9U7f8j21UqNj/giphy.gif" alt="gif"/>
-
-:space_invader: ***Tenho 22 anos e adoro acompanhar novidades na área de tecnologia e aprender melhores práticas de programação.***
-
-* :world_map:  Moro em Minas Gerais, Brasil
-* :books: Formada em Desenvolvimento Web na [Trybe](https://www.betrybe.com/)
-* :mailbox:  Você pode me contatar pelo email [leticiaoliveiraandrade.9@gmail.com](mailto:leticiaoliveiraandrade.9@gmail.com)
-
-<p align="right">
-  <a href="https://giphy.com/gifs/LINEFRIENDS-dance-linefriends-selini-O0VBge9U7f8j21UqNj" target="blank">via GIPHY</a>
+<p  align="right">
+  <a href="https://giphy.com/gifs/minecraft-cute-pixel-sprite-wKWxuUOcp9fdvckBty" target="blank">via GIPHY</a>
 </p>
 
------
-
-### Redes Sociais
-
-[![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/leticia-238/)
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/leticiaoliveiraandrade)
+:mailbox:  Email: [leticiaoliveiraandrade.9@gmail.com](mailto:leticiaoliveiraandrade.9@gmail.com)
 
 -----
 
-<h3 align="center">Linguagens e Ferramentas</h3>
+<h3 align="center">Languages and Tools</h3>
 
 <!--badge endpoints from (https://github.com/alexandresanlim/Badges4-README.md-Profile)-->
 
@@ -109,12 +98,8 @@
  -->
 -----
 
-<div>
-  <!--Stats Card-->
-  <!--
-  <img align="left" width="55%" src="https://github-readme-stats.vercel.app/api?username=leticia-238&count_private=true&show_icons=true&title_color=990073&text_color=efccff&icon_color=e600ac&hide_border=true&bg_color=30,e96443,904e95&hide=contribs" />
-  -->
+<div align="center">
   <!--Most used languages-->
-  <img align="right" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leticia-238&layout=compact&title_color=990073&text_color=efccff&hide_border=true&bg_color=30,e96443,904e95" />
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leticia-238&layout=compact&title_color=990073&text_color=efccff&hide_border=true&bg_color=30,e96443,904e95" />
 </div>
 
