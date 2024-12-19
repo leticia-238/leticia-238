@@ -1,9 +1,13 @@
-<div  align="right">
-  <img width="150px" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3JxbTdsaXNieWI0OThrbTBoMXhmcGQ0NnoyMTloMmx6eHB2aGVzeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wKWxuUOcp9fdvckBty/giphy.gif" alt="gif"/>
+# Hello! :hugs:
+
+<div  align="center">
+  <!-- <img width="150px" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3JxbTdsaXNieWI0OThrbTBoMXhmcGQ0NnoyMTloMmx6eHB2aGVzeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wKWxuUOcp9fdvckBty/giphy.gif" alt="gif"/> -->
+  <img width="200px" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWRsN2Jkb2xuYnJncWxqOGN2bnBmanlpNzN3aTh2cG1tM3ZmYm1kciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sIIhZliB2McAo/giphy.gif" alt="gif"/>
 </div>
 
-<p  align="right">
-  <a href="https://giphy.com/gifs/minecraft-cute-pixel-sprite-wKWxuUOcp9fdvckBty" target="blank">via GIPHY</a>
+<p  align="center">
+  <!-- <a href="https://giphy.com/gifs/minecraft-cute-pixel-sprite-wKWxuUOcp9fdvckBty" target="blank">via GIPHY</a> -->
+  <a href="https://giphy.com/gifs/nyan-cat-sIIhZliB2McAo" target="blank">via GIPHY</a>
 </p>
 
 :mailbox:  Email: [leticiaoliveiraandrade.9@gmail.com](mailto:leticiaoliveiraandrade.9@gmail.com)
